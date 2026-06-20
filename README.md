@@ -125,8 +125,6 @@ Motto:         "Pipelines should be boring to run, exciting to build."
 </picture>
 </div>
 
-> ⚙️ **One-time setup needed:** this snake renders only after you add the included `snake.yml` workflow to a repo named exactly `MUKESHMUU/MUKESHMUU` (your GitHub profile repo) and let the Action run once. Until then this image shows broken — that's expected.
-
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 💼 Work Experience
