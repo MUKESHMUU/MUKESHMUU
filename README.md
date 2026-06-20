@@ -1,11 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mukesh+M+%F0%9F%91%8B;Data+Engineer+%7C+Python+%2B+SQL+%2B+Spark;Building+Scalable+Pipelines+%26+Cloud+Data+Warehouses;Currently+exploring+Kafka+%26+Distributed+Systems&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=1000&color=2575FC&vCenter=true&size=24" alt="Typing SVG" />
+<!-- Animated gradient wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4B79FF,100:00C6FF&height=230&section=header&text=Hi%20there,%20I'm%20Mukesh%20M%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Engineer%20%7C%20Building%20Pipelines%20That%20Don't%20Break%20at%203AM&descAlignY=58&descSize=17&descColor=eaeaea" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Engineer+%7C+Python+%2B+SQL+%2B+Spark;Building+Scalable+Pipelines+%26+Cloud+Data+Warehouses;Currently+exploring+Kafka+%26+Distributed+Systems;Turning+messy+data+into+trustworthy+pipelines&font=Fira+Code&center=true&width=800&height=45&duration=3000&pause=1000&color=00C6FF&vCenter=true&size=22&repeat=true" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=MUKESHMUU&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=MUKESHMUU&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/MUKESHMUU?style=for-the-badge&color=00C6FF&label=FOLLOWERS&logo=github" />
+
+<br/><br/>
+
+<a href="https://github.com/PiyushSuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="A new dev quote every visit" width="480"/></a>
+
+<br/><br/>
 
 <p>
   <a href="https://www.linkedin.com/in/mukesh-17-muu"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,27 +26,26 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 👨‍💻 About Me
 
 ```yaml
 Name:          Mukesh M
 Role:          Data Engineer
-Location:      Coimbatore / Ooty, Tamil Nadu, India
+Location:      Coimbatore, Tamil Nadu, India
 Education:     MCA @ Kumaraguru College of Technology (2025 - 2027)
-Prior Degree:  BCA @ Sri Ramakrishna Mission Vidyalaya College (CGPA: 8.6)
 Status:        🟢 Open to Work — On-site / Hybrid / Remote
 Interests:     Data pipelines, cloud architecture, distributed systems
 Motto:         "Pipelines should be boring to run, exciting to build."
 ```
 
-- 🔭 I'm currently building production-style **ETL & data warehouse pipelines** on AWS and Snowflake
-- 🌱 I'm currently leveling up in **Apache Kafka, Spark, and AWS Solutions Architecture**
-- 💼 Previously: **Cloud & DevOps Intern** @ Xyloite Technologies | **Python Developer Intern** @ Next24 Technologies
+- 🔭 Currently building production-style **ETL & data warehouse pipelines** on AWS and Snowflake
+- 🌱 Leveling up in **Apache Kafka, Spark, and AWS Solutions Architecture**
+- 💼 Previously: **Cloud & DevOps Intern** @ Xyloite Technologies · **Python Developer Intern** @ Next24 Technologies
 - 📫 Reach me at **mukesh3122004@gmail.com**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -65,30 +74,66 @@ Motto:         "Pipelines should be boring to run, exciting to build."
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MUKESHMUU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKESHMUU&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MUKESHMUU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MUKESHMUU&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MUKESHMUU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mukesh's GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MUKESHMUU&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MUKESHMUU&theme=default&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKESHMUU&theme=tokyonight&hide_border=true" alt="Mukesh's GitHub Streak"/>
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHMUU&layout=compact&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHMUU&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHMUU&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHMUU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKESHMUU&theme=tokyo-night&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MUKESHMUU&theme=tokyo-night&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MUKESHMUU&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKESHMUU&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+</picture>
 
 </div>
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MUKESHMUU&theme=tokyonight&no-frame=true&row=1&column=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MUKESHMUU&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MUKESHMUU&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MUKESHMUU&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUKESHMUU/MUKESHMUU/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUKESHMUU/MUKESHMUU/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/MUKESHMUU/MUKESHMUU/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
+
+> ⚙️ **One-time setup needed:** this snake renders only after you add the included `snake.yml` workflow to a repo named exactly `MUKESHMUU/MUKESHMUU` (your GitHub profile repo) and let the Action run once. Until then this image shows broken — that's expected.
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 💼 Work Experience
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+<br/>
 
 <table>
 <tr>
@@ -119,9 +164,15 @@ Motto:         "Pipelines should be boring to run, exciting to build."
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+<br/>
 
 <table>
 <tr>
@@ -164,23 +215,25 @@ Motto:         "Pipelines should be boring to run, exciting to build."
 
 > 📌 *Project repo links will be added here as they're published.*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 🎓 Certifications
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer |
-|:---|:---|
-| AWS Well Architected Proficient | Amazon Web Services |
-| AWS Cloud Practitioner (Sem 1) | Amazon Web Services |
-| Python for Data Science | IBM |
-| Python and SQL | HackerRank |
-| Python and SQL | IIT Bombay |
+| 🏅 Certification | 🏢 Issuer | |
+|:---|:---|:---:|
+| AWS Well Architected Proficient | Amazon Web Services | <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> |
+| AWS Cloud Practitioner (Sem 1) | Amazon Web Services | <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> |
+| Python for Data Science | IBM | <img src="https://img.shields.io/badge/-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" /> |
+| Python and SQL | HackerRank | <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /> |
+| Python and SQL | IIT Bombay | 🎓 |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 🏫 Education
 
@@ -193,24 +246,24 @@ Motto:         "Pipelines should be boring to run, exciting to build."
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
 ## 📚 Currently Learning
 
 <div align="center">
 
-| Topic | Focus Areas |
-|:---|:---|
-| 🔥 Apache Spark & Kafka | Stream processing, real-time data pipelines |
-| 🧱 Data Warehouse Modeling | Dimensional modeling, partitioning strategies |
-| ☁️ AWS Solutions Architect | VPC design, IAM policies, cost optimization |
-| 🌐 Distributed Systems | Orchestration, fault tolerance, scalability |
+| Topic | Progress | Focus Areas |
+|:---|:---:|:---|
+| 🔥 Apache Spark & Kafka | ![](https://progress-bar.dev/65/?width=120&color=00C6FF) | Stream processing, real-time data pipelines |
+| 🧱 Data Warehouse Modeling | ![](https://progress-bar.dev/75/?width=120&color=4B79FF) | Dimensional modeling, partitioning strategies |
+| ☁️ AWS Solutions Architect | ![](https://progress-bar.dev/60/?width=120&color=7F00FF) | VPC design, IAM policies, cost optimization |
+| 🌐 Distributed Systems | ![](https://progress-bar.dev/55/?width=120&color=9D4EDD) | Orchestration, fault tolerance, scalability |
+
+<sub>📊 Progress is a self-estimate — tweak the numbers in the markdown whenever they shift.</sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📫 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:4B79FF,100:7F00FF&height=160&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
