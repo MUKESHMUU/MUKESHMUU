@@ -1,188 +1,225 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Mukesh%20M&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%7C%20Python%20%2B%20SQL%20%2B%20Spark%20%2B%20Airflow%20%7C%20AWS%20%26%20Snowflake&descAlignY=55&descSize=20&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mukesh+M+%F0%9F%91%8B;Data+Engineer+%7C+Python+%2B+SQL+%2B+Spark;Building+Scalable+Pipelines+%26+Cloud+Data+Warehouses;Currently+exploring+Kafka+%26+Distributed+Systems&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=1000&color=2575FC&vCenter=true&size=24" alt="Typing SVG" />
 
-### `Building Scalable Pipelines & Cloud Data Warehouses`
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=MUKESHMUU&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
 <p>
   <a href="https://www.linkedin.com/in/mukesh-17-muu"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mukesh3122004@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MUKESHMUU"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MUKESHMUU&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <a href="tel:+918778093579"><img src="https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 👤 About Me
+## 👨‍💻 About Me
 
-```java
-public class MukeshM {
-
-    String name           = "Mukesh M";
-    String role           = "Data Engineer";
-    String location        = "Coimbatore / Ooty, Tamil Nadu, India";
-    String education       = "MCA — Kumaraguru College of Technology (2025–2027)";
-    String priorDegree     = "BCA — Sri Ramakrishna Mission Vidyalaya College (CGPA: 8.6)";
-
-    String[] stack = {
-        "Python", "Java", "SQL",
-        "Apache Airflow", "Apache Spark", "Apache Kafka",
-        "Snowflake", "AWS (EC2, S3, RDS, VPC)",
-        "Linux", "Git"
-    };
-
-    String[] currentlyLearning = {
-        "Advanced Spark & Kafka stream processing",
-        "Data warehouse modeling at scale",
-        "AWS Solutions Architect concepts",
-        "Distributed systems & orchestration"
-    };
-
-    String funFact = "Built a serverless ETL pipeline on AWS Athena " +
-                      "without touching a single traditional data warehouse.";
-
-    public String motto() {
-        return "Pipelines should be boring to run and exciting to build.";
-    }
-}
+```yaml
+Name:          Mukesh M
+Role:          Data Engineer
+Location:      Coimbatore / Ooty, Tamil Nadu, India
+Education:     MCA @ Kumaraguru College of Technology (2025 - 2027)
+Prior Degree:  BCA @ Sri Ramakrishna Mission Vidyalaya College (CGPA: 8.6)
+Status:        🟢 Open to Work — On-site / Hybrid / Remote
+Interests:     Data pipelines, cloud architecture, distributed systems
+Motto:         "Pipelines should be boring to run, exciting to build."
 ```
 
----
+- 🔭 I'm currently building production-style **ETL & data warehouse pipelines** on AWS and Snowflake
+- 🌱 I'm currently leveling up in **Apache Kafka, Spark, and AWS Solutions Architecture**
+- 💼 Previously: **Cloud & DevOps Intern** @ Xyloite Technologies | **Python Developer Intern** @ Next24 Technologies
+- 📫 Reach me at **mukesh3122004@gmail.com**
 
-### 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages & Databases**
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres&theme=dark" />
 
 **Data Engineering**
-<p>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL%2FELT-555555?style=flat-square&logo=databricks&logoColor=white" />
-</p>
 
-**Cloud & DevOps**
-<p>
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20VPC-242F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 
-**Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
+**Cloud & Infrastructure**
 
----
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,githubactions&theme=dark" />
 
-### 📊 GitHub Stats
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20Athena-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20VPC-242F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUKESHMUU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKESHMUU&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHMUU&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKESHMUU&theme=tokyo-night&hide_border=true" />
-</p>
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-### 💼 Work Experience
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MUKESHMUU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKESHMUU&theme=tokyonight&hide_border=true" />
 
-<details open>
-<summary><b>Cloud & DevOps Intern — Xyloite Technologies Pvt. Ltd. | Coimbatore | Sept 2024 – Jan 2025</b></summary>
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHMUU&layout=compact&theme=tokyonight&hide_border=true" />
 
-- Deployed and maintained real-time applications in production environments, ensuring optimal server performance and reliability
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKESHMUU&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MUKESHMUU&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💼 Work Experience
+
+<table>
+<tr>
+<td width="60px" align="center">☁️</td>
+<td>
+
+**Cloud & DevOps Intern** — Xyloite Technologies Pvt. Ltd.
+`Coimbatore, India` · `Sept 2024 – Jan 2025`
+
+- Deployed and maintained real-time applications in production, ensuring optimal server performance and reliability
 - Implemented orchestration mechanisms for autoscaling and monitoring of cloud-based applications
-- Optimized cloud infrastructure resources, reducing operational costs while maintaining high availability across managed GCP services
+- Optimized cloud infrastructure resources, cutting operational costs while maintaining high availability across managed GCP services
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🐍</td>
+<td>
 
-<details>
-<summary><b>Python Developer Intern — Next24 Technologies | Virtual Internship</b></summary>
-<br>
+**Python Developer Intern** — Next24 Technologies
+`Virtual Internship`
 
 - Developed Python-based scripts and automation modules for data processing tasks
 - Worked on core Python concepts including OOP, file handling, and API integration
 - Built small-scale applications to strengthen logical thinking and problem-solving ability
 
-</details>
+</td>
+</tr>
+</table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **Cloud-Based Batch ETL Pipeline on AWS** | `Airflow` `Python` `S3` `Athena` | Orchestrated batch ETL for structured JSON data with a partitioned **raw → cleaned → curated** S3 data lake; serverless SQL analytics via Athena; built-in retries, logging & partition pruning |
-| **YouTube Engagement Analytics Pipeline** | `Python` `Snowflake` `YouTube Data API` | Ingestion pipeline integrating YouTube Data API with Snowflake; cleansing & schema normalization ETL; optimized bulk loads via internal staging + `COPY INTO` |
-| **Highly Available 3-Tier Web App on AWS** | `AWS VPC` `EC2` `RDS (MySQL)` `ALB` | Custom multi-AZ VPC with public/private subnets, IGW + NAT Gateway, Application Load Balancer, and Multi-AZ RDS for fault-tolerant, secure architecture |
+<table>
+<tr>
+<th>Project</th>
+<th>Stack</th>
+<th>Highlights</th>
+</tr>
 
-> 📌 *Project repository links to be added as they're published — watch this space!*
+<tr>
+<td><b>☁️ Cloud-Based Batch ETL Pipeline on AWS</b></td>
+<td>
 
----
+`Airflow` `Python` `S3` `Athena`
 
-### 🎓 Certifications
+</td>
+<td>Orchestrated batch ETL for structured JSON data with a partitioned <b>raw → cleaned → curated</b> S3 data lake. Serverless SQL analytics via Athena, with retries, logging & partition pruning baked in.</td>
+</tr>
 
-| Certification | Issuer |
-|---|---|
+<tr>
+<td><b>📊 YouTube Engagement Analytics Pipeline</b></td>
+<td>
+
+`Python` `Snowflake` `YouTube API`
+
+</td>
+<td>Ingestion pipeline integrating the YouTube Data API with Snowflake. Cleansing & schema normalization ETL, with optimized bulk loads via internal staging + <code>COPY INTO</code>.</td>
+</tr>
+
+<tr>
+<td><b>🏗️ Highly Available 3-Tier Web App on AWS</b></td>
+<td>
+
+`VPC` `EC2` `RDS (MySQL)` `ALB`
+
+</td>
+<td>Custom multi-AZ VPC with public/private subnets, Internet & NAT Gateways, Application Load Balancer, and Multi-AZ RDS for a fault-tolerant, secure architecture.</td>
+</tr>
+
+</table>
+
+> 📌 *Project repo links will be added here as they're published.*
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🎓 Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer |
+|:---|:---|
 | AWS Well Architected Proficient | Amazon Web Services |
 | AWS Cloud Practitioner (Sem 1) | Amazon Web Services |
 | Python for Data Science | IBM |
 | Python and SQL | HackerRank |
 | Python and SQL | IIT Bombay |
 
----
+</div>
 
-### 🏫 Education
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
+## 🏫 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📈 Score |
+|:---|:---|:---:|:---:|
 | Master of Computer Applications (MCA) | Kumaraguru College of Technology | 2025 – 2027 | In Progress |
 | Bachelor of Computer Applications (BCA) | Sri Ramakrishna Mission Vidyalaya College of Arts & Science | 2022 – 2025 | CGPA: 8.6 |
 
----
+</div>
 
-### 📚 Currently Learning
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-```text
-🔹 Apache Spark & Kafka     → Stream processing, real-time data pipelines
-🔹 Data Warehouse Modeling  → Dimensional modeling, partitioning strategies
-🔹 AWS Solutions Architect  → VPC design, IAM policies, cost optimization
-🔹 Distributed Systems      → Orchestration, fault tolerance, scalability
-```
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mukesh-17-muu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mukesh3122004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/MUKESHMUU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 📚 Currently Learning
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" />
+
+| Topic | Focus Areas |
+|:---|:---|
+| 🔥 Apache Spark & Kafka | Stream processing, real-time data pipelines |
+| 🧱 Data Warehouse Modeling | Dimensional modeling, partitioning strategies |
+| ☁️ AWS Solutions Architect | VPC design, IAM policies, cost optimization |
+| 🌐 Distributed Systems | Orchestration, fault tolerance, scalability |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mukesh-17-muu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mukesh3122004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/MUKESHMUU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<i>⭐️ Thanks for stopping by — feel free to explore my repositories!</i>
+
 </div>
