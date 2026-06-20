@@ -109,9 +109,9 @@ Motto:         "Pipelines should be boring to run, exciting to build."
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MUKESHMUU&theme=tokyonight&no-frame=true&row=1&column=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MUKESHMUU&theme=flat&no-frame=true&row=1&column=6" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MUKESHMUU&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-liard-delta.vercel.app/?username=MUKESHMUU&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-liard-delta.vercel.app/?username=MUKESHMUU&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MUKESHMUU&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </picture>
 </div>
 
@@ -124,6 +124,8 @@ Motto:         "Pipelines should be boring to run, exciting to build."
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/MUKESHMUU/MUKESHMUU/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 </div>
+
+> ⚙️ **One-time setup needed:** this snake renders only after you add the included `snake.yml` workflow to a repo named exactly `MUKESHMUU/MUKESHMUU` (your GitHub profile repo) and let the Action run once. Until then this image shows broken — that's expected.
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7F00FF,100:00C6FF&height=12&section=header" width="100%"/>
 
